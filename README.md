@@ -1,4 +1,5 @@
 # obesity-analysis
+<body>
     <h1>Obesity Analysis of United States</h1>
     <p>Using data from data.gov</p>
     <a href="https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system">Available here: </a>
@@ -45,3 +46,4 @@
     <!-- New Mexico,29.556093758093763,0.8805384615384401,9 -->
     <a href="https://ibb.co/b1vVKmY"><img src="https://i.ibb.co/VVCGq9b/national-obesity-in-us.png" alt="national-obesity-in-us" border="0"></a>
     <p>As seen above, the number of obese people in the US is increasing year over year. Each year, 0.6% of the population (Just under 2 million people per year!!!) become obese.</p>
+    </body>

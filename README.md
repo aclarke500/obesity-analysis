@@ -21,15 +21,11 @@
         <li>Rate of Increase: 0.7%</li>
     </ul>
     <h2>Least Obese State</h2>
-    <!-- Washington,28.41613756613756,0.3074951899951738,7 -->
     <ul>
         <li>Washington</li>
         <li>Average Obesity Rate (2012-2020): 28.4%</li>
         <li>Rate of Increase: 0.3%</li>
     </ul>
-    
-    <!-- Colorado,22.944159544159547,0.4343667443667183,22 -->
-    
     <h2>Highest Increase in Obesity</h2>
     <ul>
         <li>New Mexico</li>

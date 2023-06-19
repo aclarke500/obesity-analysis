@@ -57,6 +57,5 @@ for i in results['index']:
 print(f'The state with the lowest average obesity rate is {state_min_avg} with an average of {min_avg} percent obese.')
 
 results_df = pd.DataFrame(results)
-
 results_df.to_csv('results.csv')
 

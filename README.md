@@ -29,7 +29,7 @@
     <h2>Highest Increase in Obesity</h2>
     <ul>
         <li>New Mexico</li>
-        <li>Average Obesity Rate (2012-2020): 29.6%</li>
+        <li>Average Obesity Rate (2012-2021): 29.6%</li>
         <li>Rate of Increase: 0.9%</li>
     </ul>
     <h2>Slowest Increase in Obesity</h2>
